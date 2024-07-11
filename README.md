@@ -1,4 +1,4 @@
-- 🤓 Learning Cybersec and Python
+- 🤓 Learning Java and Python
 - ✏ Finishing my 1st year @ EWU
 - 🧙‍♂️ I cook on the court and in the kitchen
 - 😱 Can't centre a div yet
