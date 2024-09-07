@@ -1,5 +1,5 @@
-- 🤓 Learning Java and Python
-- ✏ Finishing my 1st year @ EWU
+- 🤓 Java enthusiast
+- ✏ Entering my 2nd year @ EWU
 - 🧙‍♂️ I cook on the court and in the kitchen
-- 😱 Can't centre a div yet
-- 📲 You can reach out to me through my email ayazih243@gmail.com
+- 😱 Still can't centre a div yet
+- 📲 You can reach out to me via email -> ayazih243@gmail.com
